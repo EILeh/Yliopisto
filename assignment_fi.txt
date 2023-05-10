@@ -1,0 +1,21 @@
+na "Teemu Teekkari"
+na "Teemu Teekkari"
+na "Aatu Arkkari"
+na "Olli Opettaja"
+na "Essi Esimerkki"
+nc COMP.CS.110 "Ohjelmointi 2"
+nc COMP.CS.100 "Ohjelmointi 1"
+nc COMP.CS.400 "Principles of programming languages"
+as COMP.CS.110 111115
+as COMP.CS.100 111114
+s COMP.CS.110 111111
+s COMP.CS.100 111111
+s COMP.CS.110 111112
+c COMP.CS.110 111112
+c COMP.CS.100 111111
+c COMP.CS.110 111111
+s COMP.CS.110 111113
+s COMP.CS.100 111113
+g 111113
+q
+
